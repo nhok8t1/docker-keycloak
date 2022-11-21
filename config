@@ -1,0 +1,4 @@
+https://172.16.225.128:443
+https://172.16.225.128:5000/v3/auth/OS-FEDERATION/websso/openid
+https://172.16.225.128:5000/v3/auth/OS-FEDERATION/identity_providers/new_realm/protocols/openid/websso
+https://172.16.225.128:5000/v3/OS-FEDERATION/identity_providers/new_realm/protocols/openid/auth
